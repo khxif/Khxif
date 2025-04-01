@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Khaif Mohamed and I'm a Fullstack developer.</h2>
+<h2 align="center">Hi 👋! My name is Khaif Mohamed and I'm a Fullstack developer.</h2>
 
 ###
 
